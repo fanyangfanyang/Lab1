@@ -22,6 +22,7 @@ import java.util.Arrays;
 /* 为了实验三做的第二个修改*/
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*B1上的第一个修改*/
 =======
 /*C4上的第一个修改*/
@@ -30,6 +31,12 @@ import java.util.Arrays;
 /*B2上的第一个修改*/
 >>>>>>> B2
 >>>>>>> origin/1143710310
+=======
+/*B1上的第一个修改*/
+=======
+/*B2上的第一个修改*/
+>>>>>>> B2
+>>>>>>> 3db7be4f262ea04aaee5c72eed57cf5cd0b36cad
 public class Expression
 {
 

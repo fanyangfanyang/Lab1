@@ -10,6 +10,7 @@ import java.util.Set;
  * @author snk Utils 实用工具类，包含一些静态的工具性质的方法
  */
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 /*B1上的第四个修改*/
@@ -17,6 +18,9 @@ import java.util.Set;
 /*C4上的第四个修改*/
 >>>>>>> C4
 >>>>>>> origin/1143710310
+=======
+/*B1上的第四个修改*/
+>>>>>>> 3db7be4f262ea04aaee5c72eed57cf5cd0b36cad
 public class Utils
 {
     private static ArrayList<String> pool = null; // 变量hash内存池，保存着所有当前出现过的变量
